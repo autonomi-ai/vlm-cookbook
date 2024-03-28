@@ -59,7 +59,7 @@ def yt_sample_video(url: str, start: int = 0, end: int = None, skip: int = 300) 
 
     # Extract frames from the video
     video = VideoReader(path)
-    assert len(video) > 0 and len(video) <= 30 * 10 * 60, f"Invalid video length: {len(video)}"
+    assert len(video) > 0, f"Invalid video length: {len(video)}"
     frames = islice(VideoReader(path), start, end, skip)
     logger.info(f"Processing video ... [video={video}]")
     for frame in frames:

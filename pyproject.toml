@@ -20,6 +20,16 @@ dev = [
     "twine",
     "ruff"
 ]
+docs = [
+    "mkdocs>=1.5.2",
+    "mkdocs-blog-plugin",
+    "mkdocs-exclude",
+    "mkdocs-include-markdown-plugin",
+    "mkdocs-material[imaging]>=9.5.0",
+    "mkdocs-material-extensions>=1.2",
+    "mkdocs-table-reader-plugin",
+    "mkdocstrings[python]",
+]
 
 [tool.setuptools.packages.find]
 include = ["vlm_tools*"]

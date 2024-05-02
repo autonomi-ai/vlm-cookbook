@@ -4,12 +4,10 @@ A collection of examples built on top of **VLM-1**, an API for **structured visu
 
 
 ## Why VLM-1?
-- 📦  **Structured Outputs**:  VLM-1 provides structured outputs for a variety of visual inputs, allowing you to automate workflows that require structured data.
-- 🎯  **Fine-tuning**: VLM-1 can be fine-tuned for specific domains, allowing you to get higher accuracy for your specific use case with enterprise-level SLAs.
-- 💸  **Scalable**: VLM-1 is designed to be cost-effective for high data volumes, enabling you to scale your structured extraction workflows without being rate-limted (unlike existing vision APIs).
-- 🛡️  **Private, Custom Deployments**: VLM-1 can be deployed on-prem or in a private cloud, allowing you to keep your data private and secure.
-- 🔌  **Easy Integration**: VLM-1 outputs are designed to be easily integrated with traditional databases and other workflow orchestration tools, allowing you to combine structured and unstructured data for search, retrieval and automation purposes.
-
+- 📦  **Structured Outputs**:  VLM-1 provides structured predictions (e.g. JSON) for your images/videos/documents, allowing you to easily automate visual tasks with strongly-typed and validated outputs.
+- 🎯  **Fine-tuning**: VLM-1 can be fine-tuned for specific visual domains, allowing you to achieve the desired accuracy for your use-case with enterprise-level SLAs.
+- 💸  **Scalable**: VLM-1 is optimized to be cost-effective for high data volumes, enabling you to scale your visual automation workflows without being rate-limted or incurring large bills.
+- 🛡️  **Private Deployments**: VLM-1 can be deployed on-prem or in a private cloud, allowing you to keep your data private and secure, and work with privacy-sensitive material.
 
 ## Signup for Early Access
 

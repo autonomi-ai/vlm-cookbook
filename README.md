@@ -13,7 +13,7 @@ A collection of examples built on top of **VLM-1**, an API for **structured visu
 
 ## Signup for Early Access
 
-If you're interested in using **VLM-1** for your structured visual understanding workflows, please sign up for early access [here](https://pq3jlvb9bkv.typeform.com/to/LkpZQFeX). We're currently working with a select group of partners to fine-tune the API and would love to hear from you if you have a specific use case in mind.
+If you're interested in using **VLM-1** for your structured visual understanding workflows, please sign up for early access [here](https://airtable.com/appjX6543bChjNaEN/pagnciKtynSt4rOT9/form). We're currently working with a select group of partners to fine-tune the API and would love to hear from you if you have a specific use case in mind.
 
 
 ## Motivating Examples

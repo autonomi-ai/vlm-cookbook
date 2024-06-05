@@ -24,6 +24,8 @@ If you're interested in using **VLM-1** for your structured visual understanding
 | Write NFL Plays to Airtable | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XhVG7Fl1O4m8uFS6bRgavj0mtJb5u1Qw#scrollTo=Pn03zLapza69)  | 03-29-2024 | `sports.nfl` | [@outtanames](https://github.com/outtanames) |
 | Hybrid Document Search with ChromaDB | [![GitHub](https://badges.aleen42.com/src/github.svg)](./examples/vlm-1-hybrid-search-chroma.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/autonomi-ai/vlm-cookbook/blob/main/examples/vlm-1-hybrid-search-chroma.ipynb)  | 04-04-2024 | `document.presentation` | [@outtanames](https://github.com/outtanames) |
 | Hybrid Document Search with MongoDB | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xsx3RxX1tmOQFJBQoX6ilRtj5prUhgtS)  | 05-13-2024 | `document.presentation` | [@spillai](https://github.com/spillai) |
+| Transcribing YouTube Audio Podcasts | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CnPDBnOjcwRfCZBDlvc0D1IxtyieWvDJ)  | 06-05-2024 | `audio.transcription` | [@spillai](https://github.com/spillai) |
+| Transcribing YouTube Video Podcasts | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tCpR9MO2ymQ4H_5AyTydFDSXLTj1fJNu)  | 06-05-2024 | `video.transcription` | [@spillai](https://github.com/spillai) |
 
 
 ## What is Structured Visual Understanding?

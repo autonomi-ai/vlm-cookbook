@@ -18,7 +18,7 @@ If you're interested in using **VLM-1** for your structured visual understanding
 
 | **Name** | **Colab / Notebook** | **Date** | **Domain** | **Author** |
 |:---:|:---:|:---:|:---:|:---:|
-| Financial Presentations | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N16Vy2jtMnXbD_WJYkG312AnwoTdXzmP)  | 08-13-2024 | `document.presentation` | [@spillai](https://github.com/spillai) |
+| Financial Presentations | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q6CCXzKlEK8nFkvl_z9m0Y1LUL4KwYJ4#scrollTo=YPk5J7YXPxMR)  | 08-13-2024 | `document.presentation` | [@spillai](https://github.com/spillai) |
 | Financial TV News | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11ELHShm9Buw_StjF9zxAGG9VToDm0gI2)  | 08-14-2024 | `tv.news` | [@spillai](https://github.com/spillai) |
 | Hybrid Document Search with ChromaDB | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lvHVFDWb6HmeXSypqZm8yY87wdk0_u8f)  | 04-04-2024 | `document.presentation` | [@outtanames](https://github.com/outtanames) |
 | Hybrid Document Search with MongoDB | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xsx3RxX1tmOQFJBQoX6ilRtj5prUhgtS)  | 05-13-2024 | `document.presentation` | [@spillai](https://github.com/spillai) |
